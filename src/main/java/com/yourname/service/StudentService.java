@@ -27,11 +27,10 @@ public class StudentService {
         this.studentRepository = studentRepository;
     }
     //GetByid
-
     public Optional<Student> getById(BigInteger id) {
+        System.out.println("=========>" + id);
         return this.studentRepository.getById(id);
     }
-
     //GetAll
 
     public List<StudentModel> getAll(){

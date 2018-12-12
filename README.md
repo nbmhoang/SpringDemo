@@ -1,7 +1,7 @@
 1. Run below SQL(MySQL):
 CREATE DATABASE demo_spring;
 USE demo_spring;
-CREATE TABLE Student (
+CREATE TABLE Students (
   ID int AUTO_INCREMENT PRIMARY KEY,
   Name nvarchar(20),
   Course nvarchar(20)

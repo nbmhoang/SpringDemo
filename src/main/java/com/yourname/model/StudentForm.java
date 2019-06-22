@@ -8,5 +8,4 @@ import java.util.Set;
 public class StudentForm {
     private String name;
     private String course;
-
 }

@@ -1,11 +1,11 @@
 {
   "student": [
-    {"name": "Hoang","age": 21},
-    {"name": "Duat","age": 20},
-    {"name": "Tuan","age": 22}
+    {"id": 1, "name": "Hoang","age": 21},
+    {"id": 2, "name": "Duat","age": 20},
+    {"id": 3, "name": "Tuan","age": 22}
   ],
   "lecturer": [
-    {"name": "Minh", "dapartment": "IT"},
-    {"name": "Phong", "dapartment": "IT"}
+    {"id": 1, "name": "Minh", "dapartment": "IT"},
+    {"id": 2, "name": "Phong", "dapartment": "IT"}
   ]
 }

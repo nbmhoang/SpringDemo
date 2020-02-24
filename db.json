@@ -5,7 +5,7 @@
     {"id": 3, "name": "Tuan","age": 22}
   ],
   "lecturer": [
-    {"id": 1, "name": "Minh", "dapartment": "IT"},
-    {"id": 2, "name": "Phong", "dapartment": "IT"}
+    {"id": 1, "name": "Minh", "department": "IT"},
+    {"id": 2, "name": "Phong", "department": "IT"}
   ]
 }
